@@ -1,0 +1,10 @@
+name: Custom Theme
+description: 'Theme made from scratch.'
+type: theme
+core: 8.x
+libraries:
+  - custom_theme/styling
+regions:
+  header: Header
+  content: Content
+  footer: Footer
